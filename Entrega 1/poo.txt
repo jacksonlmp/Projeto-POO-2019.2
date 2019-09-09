@@ -1,0 +1,9 @@
+Descrição Sistema
+
+	Adquirindo os conceitos de POO ao longo das Aulas praticas e teoricas, pensamos na ideia de projetar um Gerenciamento de viagens de uma empresa de onibus , com intuito de facilitar a emissão de passagens. O Sistema
+será manipulado por gerentes e funcionarios, cujo o gerente tera acesso total ao sistema e o funcionario será 
+responsavel pela emissão de passagens.
+
+	Deste modo, o sistema deverá ser acessado via desktop e permitirá que o funcionário seja designado para verificar se há disponibilidade de assentos, emitir, cancelar e alterar passagens. O gerente fará o cadastro dos funcionarios, também como os motoristas, onibus e viagens, além das permissões do funcionário. As viagens serão compostas por um onibus, motoristas, código, preço, destino e horários, além de conter passageiros.  
+	
+	A ideia surgiu a partir de reuniões entre o grupo e pretende utilizar os conceitos fundamentais de OO de forma a fixar os conteúdos aprendidos nas aulas. 
